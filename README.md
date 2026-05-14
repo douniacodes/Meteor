@@ -1,3 +1,5 @@
+![Preview](./public/meteor-preview.png)
+
 # Application Météo - Météor
 
 Ce projet est une App React fait par Dounia Boukrim, push sur GitHub et déployé sur Vercel. 
